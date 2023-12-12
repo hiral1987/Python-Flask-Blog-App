@@ -1,0 +1,17 @@
+{
+  "params": {
+    "local_sever": "True",
+    "local_uri": "mysql://root:@localhost/myblog",
+    "prod_uri": "mysql://root:@localhost/myblog",
+    "fb_uri": "https://www.facebook.com",
+    "tw_uri": "https://www.twitter.com",
+    "gh_uri": "https://www.github.com",
+    "gmail-user": "hiral.dharod@gmail.com",
+    "gmail-password": "hir@l@982108",
+    "about_text": "This is my about text. This is my about text. This is my about text. This is my about text. This is my about text.",
+    "no_of_posts": 5,
+    "admin_user": "Hiral",
+    "admin_password": "Hir@l@189198",
+    "upload_loc": "D:\\Python File Upload"
+  }
+}
